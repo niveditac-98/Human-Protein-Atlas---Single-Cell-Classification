@@ -102,4 +102,3 @@ Key libraries and tools used in this project:
 - **Human Protein Atlas:** For providing the dataset and hosting the competition.
 - **Kaggle community contributions:**
   - [Daniel Schettler](https://www.kaggle.com/dschettler8845) for multi-label classification inspiration.
-  - [Artem Mavrin](https://www.kaggle.com/artemmavrin) for the Focal Loss implementation.
