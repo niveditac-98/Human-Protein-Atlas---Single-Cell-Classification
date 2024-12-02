@@ -1,5 +1,5 @@
 # Human-Protein-Atlas---Single-Cell-Classification
-This repository contains our solution for the <u>Kaggle Competition: Human Protein Atlas - Single Cell Classification, developed as part of our Big Data Project. The objective was to create models capable of segmenting and classifying individual human cells from microscope images, leveraging advanced data processing and machine learning techniques.
+This repository contains our solution for the <u>Kaggle Competition: Human Protein Atlas - Single Cell Classification, developed as part of our Big Data Project Spring 2021. The objective was to create models capable of segmenting and classifying individual human cells from microscope images, leveraging advanced data processing and machine learning techniques.
 
 ## 📖 Project Overview
 
